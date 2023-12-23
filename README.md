@@ -1,5 +1,5 @@
 # kiwi-chatbot
-Restaurant online order app
+The Kiwi-chatbot is a project I made that utilizes Google's DialogFlow to create a seamless food ordering and order tracking experience for users. This project has been developed with the goal of addressing the sometimes hard to navigate food ordering platforms. 
 
 Install these modules
 ======================
